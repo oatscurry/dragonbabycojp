@@ -177,6 +177,10 @@ em {
   margin: 20px;
 }
 
+.testimonial-image-affiliates {
+  border-radius: 10%;
+}
+
 
 #press {
   background-color: #EAECEF;
