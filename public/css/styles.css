@@ -181,6 +181,11 @@ em {
   border-radius: 10%;
 }
 
+#testimonial-carousel {
+  height: 400px;
+  background-color: #F8F9FA
+}
+
 
 #press {
   background-color: #EAECEF;
